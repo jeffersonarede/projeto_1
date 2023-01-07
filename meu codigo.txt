@@ -1,4 +1,10 @@
 olá meu nome  é Jefferson
 Eu sou uma nova linha
 brian
+<<<<<<< HEAD
 Brian 2
+=======
+brian 2
+Brian 3
+
+>>>>>>> staging
